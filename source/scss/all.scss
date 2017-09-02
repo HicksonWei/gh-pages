@@ -1,0 +1,15 @@
+$color: blue;
+$font: sans-serif;
+
+body{
+    color: red;
+    font-family: verdana;
+}
+h1{
+    color: black;
+    transform: translateX(50%);
+}
+div{
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px 0.1;
+}
